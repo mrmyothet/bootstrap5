@@ -1,4 +1,38 @@
 body {
+  background: yellow;
+  color: brown;
+}
+
+p {
+  padding: 5px;
+}
+
+.browser {
   background: cyan;
+}
+
+#popular {
+  font-weight: bold;
+}
+
+input[type="text"] {
+  width: 400px;
+}
+
+ol li {
+  /* padding: 20px; */
+  /* border: 1px solid red; */
+  color: green;
+}
+
+li {
+  color: red;
+}
+
+div li {
+  color: blue !important;
+}
+
+div ol li {
   color: brown;
 }

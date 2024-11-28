@@ -36,3 +36,20 @@ div li {
 div ol li {
   color: brown;
 }
+
+a {
+  color: blue;
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: green;
+}
+a:visited {
+  color: brown;
+}
+
+ul li:first-child {
+  font-weight: bold;
+}
